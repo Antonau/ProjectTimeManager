@@ -1,0 +1,69 @@
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ApplicationInsights.config
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ServerSide.dll.config
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ServerSide.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ServerSide.pdb
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.SqlServer.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Web.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.WindowsServer.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.ApplicationInsights.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.xml
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.SqlServer.xml
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Web.xml
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.WindowsServer.xml
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.ApplicationInsights.xml
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.dll
+c:\users\note\documents\visual studio 2015\Projects\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.pdb
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\ApplicationInsights.config
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\ServerSide.dll.config
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\ServerSide.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\ServerSide.pdb
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\EntityFramework.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\EntityFramework.SqlServer.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.DependencyCollector.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Web.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.WindowsServer.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.ApplicationInsights.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\EntityFramework.xml
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\EntityFramework.SqlServer.xml
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.DependencyCollector.xml
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Web.xml
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.AI.WindowsServer.xml
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\bin\Microsoft.ApplicationInsights.xml
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.dll
+E:\TaskSpace\C#\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ApplicationInsights.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ServerSide.dll.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ServerSide.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\ServerSide.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Web.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.Web.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ServerSide\obj\Debug\ServerSide.pdb

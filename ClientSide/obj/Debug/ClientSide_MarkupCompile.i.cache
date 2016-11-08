@@ -1,0 +1,20 @@
+﻿ClientSide
+
+
+winexe
+C#
+.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ClientSide\obj\Debug\
+ClientSide
+none
+false
+DEBUG;TRACE
+C:\Users\user\Documents\Visual Studio 2015\Projects\ProjectTimeManager\ClientSide\App.xaml
+41527775137
+
+162133153080
+15-375818070
+DialogWindows\AddEmployeeWindow.xaml;DialogWindows\AddProjectWindow.xaml;MainWindow.xaml;DialogWindows\ObtainTimeWindow.xaml;
+
+True
+

@@ -1,0 +1,6 @@
+                 Report about time that was spent to the projects and amount of involved employees.
+
+1. The project SuperProject have been involved 1 employees, and have took about 34 days and 0 hours,
+more details:
+ - sdfg Ivanov has spent to the projec about 34 days and 0 hours, what is 100,00% about of all project time;
+
