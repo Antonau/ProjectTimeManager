@@ -16,6 +16,7 @@ namespace ClientSide
         // Operate on Employees
         public static EmployeeContract[] GetAllEmployees()
         {
+			//Very important operation
             WebClient proxy = new WebClient();
             string serviceURL = string.Format(serverUri+"GetAllEmployees");
             byte[] data = proxy.DownloadData(serviceURL);
