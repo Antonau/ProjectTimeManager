@@ -28,6 +28,7 @@ namespace ClientSide
 
         public static bool PlaceEmployee(string firstName, string lastName)
         {
+			//the second important comment
             EmployeeContract employee = new EmployeeContract { FirstName = firstName, LastName = lastName };
 
             DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(EmployeeContract));
